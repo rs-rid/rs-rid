@@ -19,6 +19,6 @@ With strong skills in frontend design, WordPress customization, and SEO-friendly
 - 💬 Ask me about building responsive websites with wordpress, React, Next.js, and Tailwind CSS. 
 - 📫 How to reach me: ridcoding@gmail.com 
 
-
+##### Connect with me!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/rs-rid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/rs-rid-267807383//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/rs.rid.792336)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/rs.rid.792336/)  
 
