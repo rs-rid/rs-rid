@@ -6,8 +6,12 @@ I am rid Frontend and wordpres Developer.I enjoy creating modern, responsive, an
 
 With strong skills in frontend design, WordPress customization, and SEO-friendly development, I help individuals and businesses build their online presence.Currently, I am expanding my knowledge in backend development and AI-related mathematics to become a full-stack developer in the future.
 
-Skills: Wordpress / REACT / JS / HTML / CSS/NEXT.js/PHP
-
+##### Skills: 
+✅ WordPress <br>
+✅ JavaScript <br>
+✅ PHP <br>
+✅ HTML5 / CSS3 / SASS / Bootstrap<br>
+✅ Photoshop / Illustrator
 - 🔭 I’m currently working on as a  wordpress developer 
 - 👯 I’m looking to collaborate on building modern, responsive websites and web applications. 
 - 🤔 I’m looking for help with I’m looking for help with optimizing websites for performance and SEO. 
