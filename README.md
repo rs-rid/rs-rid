@@ -10,7 +10,8 @@ With strong skills in frontend design, WordPress customization, and SEO-friendly
 ✅ WordPress <br>
 ✅ JavaScript <br>
 ✅ PHP <br>
-✅ HTML5 / CSS3 / SASS / Bootstrap<br>
+✅ HTML5 / CSS3 / SASS / Bootstrap/tailwind <br>
+✅ React/Next.js <br>
 ✅ Photoshop / Illustrator
 - 🔭 I’m currently working on as a  wordpress developer 
 - 👯 I’m looking to collaborate on building modern, responsive websites and web applications. 
